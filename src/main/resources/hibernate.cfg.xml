@@ -15,6 +15,12 @@
         <mapping class="entity.Driver"/>
         <mapping class="entity.Engine"/>
         <mapping class="entity.Car"/>
+        <mapping class="advertisement.Advertisement"/>
+        <mapping class="advertisement.Cars"/>
+        <mapping class="advertisement.CarBody"/>
+        <mapping class="advertisement.Manufacturer"/>
+        <mapping class="advertisement.User"/>
+
 
     </session-factory>
 </hibernate-configuration>
